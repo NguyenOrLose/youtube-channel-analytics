@@ -79,9 +79,6 @@ pip install isodate google-api-python-client pandas seaborn matplotlib python-do
 - Analyze **comments sentiment** to understand audience feedback.
 - Use **machine learning** to predict video performance based on metadata.
 
-## License
-This project is licensed under the MIT License.
-
 ---
 **Author:** Brian Nguyen  
 **GitHub:** [bhunnids](https://github.com/bhunnids)
