@@ -84,5 +84,5 @@ This project is licensed under the MIT License.
 
 ---
 **Author:** Brian Nguyen  
-**GitHub:** [yourusername](https://github.com/yourusername)
+**GitHub:** [bhunnids](https://github.com/bhunnids)
 
